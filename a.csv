@@ -1,0 +1,88 @@
+AP
+AP,School
+AP,School,Conf
+AP,School,Conf,W
+AP,School,Conf,W,L
+AP,School,Conf,W,L,L10
+AP,School,Conf,W,L,L10,SRS
+AP,School,Conf,W,L,L10,SRS,Prev
+1
+1,Gonzaga
+1,Gonzaga,WCC
+1,Gonzaga,WCC,28
+1,Gonzaga,WCC,28,4
+1,Gonzaga,WCC,28,4,8-2
+1,Gonzaga,WCC,28,4,8-2,25.5
+1,Gonzaga,WCC,28,4,8-2,25.5,1
+2
+2,Arizona
+2,Arizona,Pac-12
+2,Arizona,Pac-12,33
+2,Arizona,Pac-12,33,4
+2,Arizona,Pac-12,33,4,8-2
+2,Arizona,Pac-12,33,4,8-2,22.8
+2,Arizona,Pac-12,33,4,8-2,22.8,2
+3
+3,Kansas
+3,Kansas,Big 12
+3,Kansas,Big 12,34
+3,Kansas,Big 12,34,6
+3,Kansas,Big 12,34,6,10-0
+3,Kansas,Big 12,34,6,10-0,22.3
+3,Kansas,Big 12,34,6,10-0,22.3,6
+4
+4,Baylor
+4,Baylor,Big 12
+4,Baylor,Big 12,27
+4,Baylor,Big 12,27,7
+4,Baylor,Big 12,27,7,7-3
+4,Baylor,Big 12,27,7,7-3,21.7
+4,Baylor,Big 12,27,7,7-3,21.7,3
+5
+5,Tennessee
+5,Tennessee,SEC
+5,Tennessee,SEC,27
+5,Tennessee,SEC,27,8
+5,Tennessee,SEC,27,8,8-2
+5,Tennessee,SEC,27,8,8-2,20.5
+5,Tennessee,SEC,27,8,8-2,20.5,9
+6
+6,Villanova
+6,Villanova,Big East
+6,Villanova,Big East,30
+6,Villanova,Big East,30,8
+6,Villanova,Big East,30,8,9-1
+6,Villanova,Big East,30,8,9-1,19.3
+6,Villanova,Big East,30,8,9-1,19.3,8
+7
+7,Kentucky
+7,Kentucky,SEC
+7,Kentucky,SEC,26
+7,Kentucky,SEC,26,8
+7,Kentucky,SEC,26,8,6-4
+7,Kentucky,SEC,26,8,6-4,20.9
+7,Kentucky,SEC,26,8,6-4,20.9,5
+8
+8,Auburn
+8,Auburn,SEC
+8,Auburn,SEC,28
+8,Auburn,SEC,28,6
+8,Auburn,SEC,28,6,6-4
+8,Auburn,SEC,28,6,6-4,19.2
+8,Auburn,SEC,28,6,6-4,19.2,4
+9
+9,Duke
+9,Duke,ACC
+9,Duke,ACC,32
+9,Duke,ACC,32,7
+9,Duke,ACC,32,7,7-3
+9,Duke,ACC,32,7,7-3,19.5
+9,Duke,ACC,32,7,7-3,19.5,7
+10
+10,Purdue
+10,Purdue,Big Ten
+10,Purdue,Big Ten,29
+10,Purdue,Big Ten,29,8
+10,Purdue,Big Ten,29,8,6-4
+10,Purdue,Big Ten,29,8,6-4,19.1
+10,Purdue,Big Ten,29,8,6-4,19.1,9
